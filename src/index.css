@@ -94,6 +94,10 @@
     flex-direction: column;
     gap: 10px;
   }
+
+  .item-list:hover{
+    text-decoration: none;
+  }
   
   .item-list__header {
     display: flex;
